@@ -14,7 +14,7 @@ const initdb = async () =>
 
 // TODO: Add logic to a method that accepts some content and adds it to the database
 export const putDb = async (content) => {
-  // console.error('putDb not implemented');
+  
   try {
     console.log('PUT to the database');
     const jateDb = await openDB('jate', 1);
