@@ -10,7 +10,6 @@ AS A developer
 I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
 
-
 ## Acceptance Criteria
 
 GIVEN a text editor web application
@@ -50,6 +49,26 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contribute](#contribute)
+- [Tests](#tests)
+- [Username](#username)
+- [Email](#email)
+
+## Usage
+Follow the examples on my repo.
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Contribute
+No contributes
+
+## Tests:
+Testing is not required.
 
 ## Deployed Application Link:
 https://editor-text-pwa-7e5f2ccc57d3.herokuapp.com/
